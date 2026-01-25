@@ -2502,8 +2502,8 @@
 		)
 	)
 	(rectangle
-		(start 114.3 100.33)
-		(end 163.83 161.29)
+		(start 21.59 93.98)
+		(end 71.12 154.94)
 		(stroke
 			(width 0)
 			(type default)
@@ -2549,7 +2549,7 @@
 	)
 	(text "Ribbon Connector"
 		(exclude_from_sim no)
-		(at 137.922 158.75 0)
+		(at 45.212 152.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2729,7 +2729,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 116.84) (xy 143.51 116.84)
+			(xy 41.91 110.49) (xy 50.8 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2739,7 +2739,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 139.7) (xy 143.51 147.32)
+			(xy 50.8 133.35) (xy 50.8 140.97)
 		)
 		(stroke
 			(width 0)
@@ -2759,7 +2759,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 139.7) (xy 143.51 139.7)
+			(xy 41.91 133.35) (xy 50.8 133.35)
 		)
 		(stroke
 			(width 0)
@@ -2839,7 +2839,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 116.84) (xy 143.51 110.49)
+			(xy 50.8 110.49) (xy 50.8 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2959,7 +2959,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 137.16) (xy 149.86 147.32)
+			(xy 57.15 130.81) (xy 57.15 140.97)
 		)
 		(stroke
 			(width 0)
@@ -2999,7 +2999,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 137.16) (xy 149.86 137.16)
+			(xy 41.91 130.81) (xy 57.15 130.81)
 		)
 		(stroke
 			(width 0)
@@ -3109,7 +3109,7 @@
 	)
 	(global_label "ACC"
 		(shape input)
-		(at 134.62 129.54 0)
+		(at 41.91 123.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3119,7 +3119,7 @@
 		)
 		(uuid "1bbed5c5-696a-4bdc-b2a2-99d440a1b607")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 141.2338 129.54 0)
+			(at 48.5238 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3153,7 +3153,7 @@
 	)
 	(global_label "D+"
 		(shape input)
-		(at 134.62 127 0)
+		(at 41.91 120.65 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3163,7 +3163,7 @@
 		)
 		(uuid "2261d87a-5dd8-45c5-8f6b-e8bf4a4f1aa1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.4476 127 0)
+			(at 47.7376 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3307,7 +3307,7 @@
 	)
 	(global_label "TX"
 		(shape input)
-		(at 134.62 119.38 0)
+		(at 41.91 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3317,7 +3317,7 @@
 		)
 		(uuid "70d9a1b2-b962-478c-be59-d4cd55d6068b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.7823 119.38 0)
+			(at 47.0723 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3329,7 +3329,7 @@
 	)
 	(global_label "D-"
 		(shape input)
-		(at 134.62 124.46 0)
+		(at 41.91 118.11 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3339,7 +3339,7 @@
 		)
 		(uuid "7598ce21-b5ac-4302-b9ba-7ddb36d4c2e2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.4476 124.46 0)
+			(at 47.7376 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3351,7 +3351,7 @@
 	)
 	(global_label "RX"
 		(shape input)
-		(at 134.62 121.92 0)
+		(at 41.91 115.57 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3361,7 +3361,7 @@
 		)
 		(uuid "a80978a1-eae0-4cd7-8adf-38a4187f7dc9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.0847 121.92 0)
+			(at 47.3747 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3395,7 +3395,7 @@
 	)
 	(global_label "OUT_L"
 		(shape input)
-		(at 134.62 132.08 0)
+		(at 41.91 125.73 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3405,7 +3405,7 @@
 		)
 		(uuid "b2e20dd4-5249-4db6-b7db-350a046ef9bd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.2295 132.08 0)
+			(at 50.5195 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3439,7 +3439,7 @@
 	)
 	(global_label "OUT_R"
 		(shape input)
-		(at 134.62 134.62 0)
+		(at 41.91 128.27 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3449,7 +3449,7 @@
 		)
 		(uuid "bd58a567-f0ba-4511-b39e-77f9266f4fe0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.4714 134.62 0)
+			(at 50.7614 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3529,7 +3529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AP2331SA-7:SOT91P240X120-3N"
+		(property "Footprint" "AP2331SA:SOT91P240X120-3N"
 			(at 107.95 38.1 0)
 			(effects
 				(font
@@ -3815,7 +3815,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 143.51 110.49 0)
+		(at 50.8 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3824,7 +3824,7 @@
 		(fields_autoplaced yes)
 		(uuid "2e95290f-5ac8-40e2-827c-6db210fbfce6")
 		(property "Reference" "#PWR01"
-			(at 143.51 114.3 0)
+			(at 50.8 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3833,7 +3833,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 143.51 105.41 0)
+			(at 50.8 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3841,7 +3841,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 143.51 110.49 0)
+			(at 50.8 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3850,7 +3850,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 110.49 0)
+			(at 50.8 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3859,7 +3859,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 143.51 110.49 0)
+			(at 50.8 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3947,7 +3947,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 149.86 147.32 0)
+		(at 57.15 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3956,7 +3956,7 @@
 		(fields_autoplaced yes)
 		(uuid "42c000d8-ba11-4083-af9c-1756d5acdbe4")
 		(property "Reference" "#PWR011"
-			(at 149.86 153.67 0)
+			(at 57.15 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3965,7 +3965,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 149.86 152.4 0)
+			(at 57.15 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3973,7 +3973,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 147.32 0)
+			(at 57.15 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3982,7 +3982,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 147.32 0)
+			(at 57.15 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3991,7 +3991,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 149.86 147.32 0)
+			(at 57.15 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4175,7 +4175,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 129.2352 43.18 0)
 			(effects
 				(font
@@ -4660,7 +4660,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x10")
-		(at 129.54 129.54 180)
+		(at 36.83 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4669,7 +4669,7 @@
 		(fields_autoplaced yes)
 		(uuid "b3ab7e19-1df2-4b45-94e9-5a7868f8e4a9")
 		(property "Reference" "J2"
-			(at 129.54 110.49 0)
+			(at 36.83 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4677,15 +4677,15 @@
 			)
 		)
 		(property "Value" "Ribbon Connector"
-			(at 129.54 113.03 0)
+			(at 36.83 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 129.54 129.54 0)
+		(property "Footprint" "Connector_FFC-FPC:Molex_54548-1071_1x10-1MP_P0.5mm_Horizontal"
+			(at 36.83 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4694,7 +4694,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 129.54 129.54 0)
+			(at 36.83 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4703,7 +4703,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 129.54 129.54 0)
+			(at 36.83 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4884,7 +4884,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDS")
-		(at 143.51 147.32 0)
+		(at 50.8 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4893,7 +4893,7 @@
 		(fields_autoplaced yes)
 		(uuid "d1a26dce-f1f1-4464-87f1-a6f7a66c2be7")
 		(property "Reference" "#PWR05"
-			(at 143.51 153.67 0)
+			(at 50.8 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4902,7 +4902,7 @@
 			)
 		)
 		(property "Value" "GNDS"
-			(at 143.51 152.4 0)
+			(at 50.8 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4910,7 +4910,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 143.51 147.32 0)
+			(at 50.8 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4919,7 +4919,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 147.32 0)
+			(at 50.8 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4928,7 +4928,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDS\" , signal ground"
-			(at 143.51 147.32 0)
+			(at 50.8 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5109,7 +5109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 89.8652 43.18 0)
 			(effects
 				(font
