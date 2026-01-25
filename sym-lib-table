@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "ipod-connector_male")(type "KiCad")(uri "${KIPRJMOD}/libraries/ipod-connector/ipod-connector_male.kicad_sym")(options "")(descr ""))
-  (lib (name "xiao_esp32c3")(type "KiCad")(uri "${KIPRJMOD}/libraries/XIAO_ESP32C3/xiao_esp32c3.kicad_sym")(options "")(descr ""))
-)
